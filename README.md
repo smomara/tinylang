@@ -9,7 +9,8 @@ I'm planning to add to this project by completing all the challenges in the book
 ## How to Use TinyLang
 1. **Clone**
 ```bash
-git clone https://github.com/smomara/tinylang.git # to download the project
+# to download the project
+git clone https://github.com/smomara/tinylang.git
 
 ```
 2. **Navigate**
