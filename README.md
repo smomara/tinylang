@@ -4,6 +4,8 @@ TinyLang is a really simple compiler written in C that I wrote while going throu
 
 While learning assembly language, I grew fascinated with how compilers translate to machine language. I thought the best way to learn about compilers was to build one myself.
 
+I'm starting a Haskell implementation in the `has/` directory
+
 I'm planning to add to this project by completing all the challenges in the book. After that, I might add some unique features.
 
 ## How to Use TinyLang
